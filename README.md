@@ -7,7 +7,7 @@
 * [x] Fazer o **MORPHING**.
    * Cores.
    * Animação.
-* [ ] Criar o **MENU***
+* [x] Criar o **MENU***
    * Colocar os objetos.
    * Editar o estilo.
    * Fazer a animação. 
