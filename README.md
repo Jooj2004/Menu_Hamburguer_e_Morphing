@@ -11,8 +11,9 @@
    * Colocar os objetos.
    * Editar o estilo.
    * Fazer a animação. 
-* [ ] Colocar o texto e imagem.
+* [x] Colocar o texto e imagem.
    * Organizar.
+   * Animação.
 * [ ] Criar o rodapé.
 * [ ] Adaptar para mobile.
 
