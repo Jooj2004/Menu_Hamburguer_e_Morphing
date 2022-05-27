@@ -14,8 +14,8 @@
 * [x] Colocar o texto e imagem.
    * Organizar.
    * Animação.
-* [ ] Criar o rodapé.
-* [ ] Adaptar para mobile.
+* [x] Criar o rodapé.
+* [x] Adaptar para mobile.
 
 ---
 
